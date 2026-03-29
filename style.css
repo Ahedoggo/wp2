@@ -1,0 +1,81 @@
+body {
+
+color: rgb(205, 221, 242);
+
+background: rgb(24, 19, 41);
+
+}
+
+ 
+
+h1 {
+
+text-align: center;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgb(202, 188, 211);
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: rgb(102, 67, 122);
+    padding: 10px;
+}
+
+.i-header {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: rgb(146, 138, 185);
+    padding: 5px;
+}
+
+.f-desc {
+    color: rgb(231, 225, 232);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.s-desc {
+    color: rgb(223, 212, 227);
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.specs-list {
+    list-style-image: url('images/geo.png');
+    color: rgb(205, 221, 242);
+}
+
+.pur-link{
+    color: rgb(202, 188, 211);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.pur-link:hover {
+    background-color: rgb(102, 67, 122);
+    padding: 10px;
+}
+
+.o-link {
+    color: rgb(202, 188, 211);
+    font-size: 18px;
+}
